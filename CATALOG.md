@@ -238,7 +238,7 @@
 | XR 沉浸式开发者 | `spatial-computing/xr-immersive-developer.md` |
 | XR 界面架构师 | `spatial-computing/xr-interface-architect.md` |
 
-## 🔬 专项部 (58)
+## 🔬 专项部 (59)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -289,6 +289,7 @@
 | 韩国商务专家 | `specialized/specialized-korean-business-navigator.md` |
 | MCP 构建器 | `specialized/specialized-mcp-builder.md` |
 | 会议效率专家 | `specialized/specialized-meeting-assistant.md` |
+| 老板专属 AI 助理 | `specialized/specialized-boss-ai-assistant.md` |
 | 模型 QA 专家 | `specialized/specialized-model-qa.md` |
 | 动态定价策略师 | `specialized/specialized-pricing-optimizer.md` |
 | 房地产经纪助手 | `specialized/real-estate-buyer-seller.md` |
